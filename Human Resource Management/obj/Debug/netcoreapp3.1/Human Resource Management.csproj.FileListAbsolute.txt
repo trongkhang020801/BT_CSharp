@@ -1,0 +1,14 @@
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\bin\Debug\netcoreapp3.1\Human Resource Management.exe
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\bin\Debug\netcoreapp3.1\Human Resource Management.deps.json
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\bin\Debug\netcoreapp3.1\Human Resource Management.runtimeconfig.json
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\bin\Debug\netcoreapp3.1\Human Resource Management.runtimeconfig.dev.json
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\bin\Debug\netcoreapp3.1\Human Resource Management.dll
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\bin\Debug\netcoreapp3.1\Human Resource Management.pdb
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.csproj.AssemblyReference.cache
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.AssemblyInfoInputs.cache
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.AssemblyInfo.cs
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.csproj.CoreCompileInputs.cache
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.dll
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.pdb
+C:\Users\K2001\source\repos\Human Resource Management\Human Resource Management\obj\Debug\netcoreapp3.1\Human Resource Management.genruntimeconfig.cache
