@@ -1,0 +1,15 @@
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\bin\Debug\net6.0\BaiKiemTra_Lan1.exe
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\bin\Debug\net6.0\BaiKiemTra_Lan1.deps.json
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\bin\Debug\net6.0\BaiKiemTra_Lan1.runtimeconfig.json
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\bin\Debug\net6.0\BaiKiemTra_Lan1.dll
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\bin\Debug\net6.0\BaiKiemTra_Lan1.pdb
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.csproj.AssemblyReference.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.AssemblyInfoInputs.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.AssemblyInfo.cs
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.csproj.CoreCompileInputs.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.dll
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\refint\BaiKiemTra_Lan1.dll
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.pdb
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\BaiKiemTra_Lan1.genruntimeconfig.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiKiemTra_Lan1\obj\Debug\net6.0\ref\BaiKiemTra_Lan1.dll

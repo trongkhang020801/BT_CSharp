@@ -1,0 +1,15 @@
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\bin\Debug\net6.0\BaiTapCoBan3.exe
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\bin\Debug\net6.0\BaiTapCoBan3.deps.json
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\bin\Debug\net6.0\BaiTapCoBan3.runtimeconfig.json
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\bin\Debug\net6.0\BaiTapCoBan3.dll
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\bin\Debug\net6.0\BaiTapCoBan3.pdb
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.csproj.AssemblyReference.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.AssemblyInfoInputs.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.AssemblyInfo.cs
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.csproj.CoreCompileInputs.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.dll
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\refint\BaiTapCoBan3.dll
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.pdb
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\BaiTapCoBan3.genruntimeconfig.cache
+D:\Đại Học\HK221\Lập trình C Sharp\BaiTapCoBan3\obj\Debug\net6.0\ref\BaiTapCoBan3.dll
